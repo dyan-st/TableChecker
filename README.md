@@ -1,5 +1,5 @@
 # TableChecker
-Combine Excel files in Power Query a lot?
+Check the table format of an entire folder of Excel files at once!
 
 Save time checking the formats with this code, which checks through an entire folder of Excel files to ensure that the table format is consistent, returning the rows and columns into a sheet you can check at a glance! 
 
