@@ -8,3 +8,5 @@ This code:
 2. Counts rows and columns
 3. Extracts table column names
 4. Outputs an Excel file with the filenames, table column names, rows and columns, so you can check the format of all files at a glance without browsing through them manually!
+
+Great to use before compiling large datasets with PowerQuery or similar software!
