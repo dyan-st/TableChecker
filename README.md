@@ -10,6 +10,7 @@ This code:
 4. Outputs an Excel file with the filenames, table column names, rows and columns, so you can check the format of all files at a glance without browsing through them manually!
 
 Sample Results:
+
 <img width="528" alt="FormatCheckerResults" src="https://github.com/dyan-st/TableChecker/assets/140136462/010abdc6-14c9-4f69-8fad-526ca2a5dca6">
 
 Great to use before compiling large datasets with PowerQuery or similar software!
